@@ -192,6 +192,20 @@
 
 
 
+
+
+/* VALERIA */
+.proyecto-card {
+  background-color:#f7f7f7;
+  padding: 50px;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+
 /*3DDDDDDDDDDDDDDDD*/
 .proyecto-3d {
   background-color: #f7f7f7;
@@ -221,8 +235,6 @@
   background-color: transparent;
   border-top: none;
 }
-
-
 
 
 /* FOTOS ANALOGGG */
